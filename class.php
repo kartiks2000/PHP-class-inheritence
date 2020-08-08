@@ -5,10 +5,6 @@
         var $wheels = 4;
         var $color = "blue";
 
-        function carname() {
-            $this->wheels = 10;
-        }
-
     }
 
     class Plane extends Car{
